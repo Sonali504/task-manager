@@ -22,3 +22,12 @@ This is a simple task dashboard web application designed using HTML, CSS, and Ja
 
 
 6.Messaging functionality for communication within the platform.
+
+
+<h2>Technologies Used</h2>
+1.HTML
+
+
+2.CSS
+
+
