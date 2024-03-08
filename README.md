@@ -3,6 +3,12 @@
 
 This is a simple task dashboard web application designed using HTML, CSS, and JavaScript. It provides users with a convenient interface to manage projects, tasks, messages, and timelines.
 
+
+<h2>Deployment </h2>
+
+The project is deployed and can be accessed here :- https://main--warm-crumble-39fc3d.netlify.app/
+
+
 <h2>Features</h2>
 
 
