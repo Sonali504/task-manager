@@ -37,3 +37,13 @@ The project is deployed and can be accessed here :- https://main--warm-crumble-3
 2.CSS
 
 
+<h2>Credits</h2>
+
+
+Developer: Sonali
+
+
+Images: Unsplash
+
+
+
