@@ -40,7 +40,7 @@ The project is deployed and can be accessed here :- https://main--warm-crumble-3
 <h2>Credits</h2>
 
 
-Developer: Sonali
+Developer: Sonali ASwal
 
 
 Images: Unsplash
