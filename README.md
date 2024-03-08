@@ -6,9 +6,19 @@ This is a simple task dashboard web application designed using HTML, CSS, and Ja
 <h2>Features</h2>
 
 
-Dashboard overview with project status and progress.
-Quick access to project details and tasks.
-User-friendly task management with completion status and priority indicators.
-Timeline view for tracking project milestones.
-Calendar for scheduling and managing tasks.
-Messaging functionality for communication within the platform.
+1.Dashboard overview with project status and progress.
+
+
+2.Quick access to project details and tasks.
+
+
+3.User-friendly task management with completion status and priority indicators.
+
+
+4.Timeline view for tracking project milestones.
+
+
+5.Calendar for scheduling and managing tasks.
+
+
+6.Messaging functionality for communication within the platform.
